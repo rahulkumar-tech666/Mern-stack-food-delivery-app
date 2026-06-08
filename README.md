@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚚 Food Ordering Web App (MERN Stack)
 
 ## ✨ Table of Contents
@@ -138,3 +139,7 @@ Contributions are welcome! Please fork the repository and create a pull request 
 
 
 
+=======
+# Mern-stack-food-delivery-app
+Mern stack food delivery app
+>>>>>>> b2194633b056018eec1e54a5d0a27533d4eaf2e3
